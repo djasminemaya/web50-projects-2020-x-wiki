@@ -1,0 +1,70 @@
+.bebe {
+    size: 25px;
+    position: relative;
+    left: 60%;
+    bottom: 35%;
+    display: inline;
+    margin: 10%;
+    color: rgb(255, 0, 0);
+    
+    }   
+ .caza{
+     left:25px;
+     color: red;
+     position: relative;
+     }
+.nev{
+    width: 100%;
+    height: 10%;
+    margin:0px ;
+    
+}
+img {
+top: 0%;
+left: 0%;
+margin: 0%;
+height: 100%;
+width: 15%;
+}
+
+.boubou{
+    color: black;  
+}
+
+ .ca{
+     color: red;
+ }
+ .chocolate{
+    height:25%;
+    width:100%;
+   background-color: gainsboro;
+ }
+ 
+ .potato{
+  position: relative; 
+  background-color: rgb(113, 198, 238);
+  left: 78%;
+  color: white;
+     }
+     a{
+         text-decoration: initial;
+         color:#1e90ff;
+}
+a:hover{
+    text-decoration:underline;
+}
+.chocolate>p:hover{
+ 
+    text-decoration:underline;
+ }
+ .ji{
+    position: relative;
+    border: transparent;
+    background-color: whitesmoke;
+    left:1170px;
+    bottom: 25px;
+ }
+ .ji:hover{
+    background-color: #0000ff;  
+    color: whitesmoke 
+ }
